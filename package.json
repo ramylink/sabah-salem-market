@@ -6,7 +6,7 @@
     "description": "Sabah Al-Salem Cooperative Society E-Commerce Platform",
     "scripts": {
         "dev": "vite",
-        "build": "vite build && vite build --ssr",
+        "build": "vite build",
         "preview": "vite preview",
         "lint": "eslint resources/js --ext .js,.vue",
         "format": "prettier --write resources/js/**/*.{js,vue,css}"
